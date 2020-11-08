@@ -1,0 +1,206 @@
+
+body{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    background-image: url("");
+    background-size: fill;
+    background-repeat: no-repeat;
+    background-color: rgb(148, 148, 148);
+}
+
+.title-banner{
+    background-image: url("");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: white;
+    height: 9rem;
+    padding-top: 1rem;
+}
+.title{
+    text-align: center;
+    font-size: 4rem;
+    font-family: 'Stardos Stencil', cursive;
+    text-align: center;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 52rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.sub-title{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2rem;
+    margin-top: 0;
+    border-bottom: 1px solid black;
+    width: 41rem;
+    text-align: center;
+    margin-left: 28%;
+    color: rgb(128, 32, 32);
+}
+.banner-img-left{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+.banner-img-right{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+.auto-img{
+    width: 10rem;
+    height: 10rem;
+}
+
+#col-1{
+    margin-left: 1rem;
+    border-radius: 5px;
+}
+.auto-txt{
+    font-family: 'Stardos Stencil', cursive;
+    letter-spacing: .5rem;
+    margin-top: -.2rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+#col-2{
+    border-radius: 5px;
+    width: 59.2rem;
+    height: 26rem;
+    margin-left: -14rem;
+    margin-top: -1rem;
+}
+
+.columns{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(77, 77, 77);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-image: url("imgs/iml-truck.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.list{
+    list-style-type: none;
+    font-family: 'Stardos Stencil', cursive;
+}
+.list-item{
+    font-size: 2rem;
+    background-color: rgb(128, 32, 32);
+    color: white;
+    width: 15rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    border: 3px solid rgb(56, 56, 56);
+    box-shadow: 5px 5px black;
+    text-shadow: 2px 2px black;
+}
+.list-2{
+    margin-left: 66.5%;
+    color: white;
+    border-radius: 5px;
+    width: 14rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.list-item-2{
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    width: 13rem;
+}
+
+.img-badge{
+    width: 8rem;
+    height: 7rem;
+    display: inline-flex;
+}
+
+.badges{
+    margin-left: 5rem;
+}
+
+.exp{
+
+}
+
+#bonded{
+    margin-left: 2rem;
+}
+
+#emergency{
+    width: 7rem;
+    height: 6.6rem;
+    margin-bottom: .2rem;
+}
+
+.experience{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2.3rem;
+    text-align: center;
+    margin-top: .3rem;
+    background-color: rgb(226, 206, 88);
+    color: white;
+    text-shadow: 2px 2px black;
+    box-shadow: 5px 5px rgb(116, 105, 45);
+    border: 1px solid black;
+    height: 6rem;
+    width: 18rem;
+    margin-left: 1rem;
+    border-radius: 5px;
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+.bottom-banner{
+    display: grid;
+    grid-template-columns: 25% 52% 23%;
+    background-color: white;
+    height: 7rem;
+}
+.phone-number{
+    font-size: 5rem;
+    margin-top: 0;
+    font-family: 'Stardos Stencil', cursive;
+    color: rgb(128, 32, 32);
+}
+.call-text{
+    font-size: 5rem;
+    margin-top: 0;
+    font-family: 'Stardos Stencil', cursive;
+    margin-right: 2rem;
+}
+.call-phone-text{
+    display: inline-flex;
+    margin-left: 3rem;
+}
+
+
+.footer-div{
+    display: inline-flex;
+    background-color: rgb(56, 56, 56);
+    color: white;
+    border-radius: 5px;
+    padding-left: 1rem;
+    width: 90rem;
+}
+
+footer{
+    margin-top: 3rem;
+    padding: 2rem;
+}
